@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Actions Release Builder"
+  short_description: "Build, package, and release in Actions"
+  default_prompt: "Use $gh-actions-release-builder to create a GitHub Actions workflow that builds, packages, and releases this repository without local compilation."
